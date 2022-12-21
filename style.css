@@ -1,0 +1,128 @@
+.u-section-1 {
+    background-image: url("images/1648038834_1-abrakadabra-fun-p-oboi-na-rabochii-stol-belii-fon-1.jpg");
+    background-position: 50% 50%;
+  }
+  
+  .u-section-1 .u-sheet-1 {
+    min-height: 833px;
+  }
+  
+  .u-section-1 .u-shape-1 {
+    width: 580px;
+    height: 305px;
+    margin: 43px 88px 0 auto;
+  }
+  
+  .u-section-1 .u-image-1 {
+    width: 831px;
+    height: 531px;
+    margin: -237px auto 0 143px;
+  }
+  
+  .u-section-1 .u-group-1 {
+    width: 496px;
+    min-height: 357px;
+    margin: -302px auto 60px 58px;
+  }
+  
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+  
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin: 0 auto;
+  }
+  
+  .u-section-1 .u-text-2 {
+    margin: 34px 13px 0;
+  }
+  
+  .u-section-1 .u-btn-1 {
+    border-style: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 16px auto 0;
+  }
+  
+  @media (max-width: 1199px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 687px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      margin-left: 109px;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-family: Roboto, sans-serif;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 455px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      width: 720px;
+      height: 460px;
+      margin-left: 0;
+    }
+  
+    .u-section-1 .u-group-1 {
+      margin-top: -231px;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 340px;
+    }
+  
+    .u-section-1 .u-shape-1 {
+      width: 540px;
+      margin-right: 0;
+    }
+  
+    .u-section-1 .u-image-1 {
+      width: 540px;
+      height: 345px;
+    }
+  
+    .u-section-1 .u-group-1 {
+      margin-top: -116px;
+      margin-left: 44px;
+    }
+  
+    .u-section-1 .u-container-layout-1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 212px;
+    }
+  
+    .u-section-1 .u-shape-1 {
+      width: 340px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      width: 340px;
+      height: 217px;
+    }
+  
+    .u-section-1 .u-group-1 {
+      width: 340px;
+      margin-top: 12px;
+      margin-left: 0;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 1.5rem;
+    }
+  }
